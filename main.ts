@@ -2,10 +2,10 @@ scene.setBackgroundColor(0)
 let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . . . . . . . . b 5 5 b . . . 
-    . . . . . . b b b b b b . . . . 
-    . . . . . b b 5 5 5 5 5 b . . . 
-    . b b b b b 5 5 5 5 5 5 5 b . . 
+    . . . 2 2 . . . . b 5 5 b . . . 
+    . . . . 2 2 b b b b b b . . . . 
+    . . . . . 2 2 2 2 2 2 2 b . . . 
+    . b b b b b 2 2 2 2 2 2 2 b . . 
     . b d 5 b 5 5 5 5 5 5 5 5 b . . 
     . . b 5 5 b 5 d 1 f 5 d 4 f . . 
     . . b d 5 5 b 1 f f 5 4 4 c . . 
